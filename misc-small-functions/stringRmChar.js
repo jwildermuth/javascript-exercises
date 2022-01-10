@@ -10,4 +10,4 @@ const rmChar = (text, position) => {
 }
 
 
-console.log(rmChar('abcdefg', 2))
+console.log(rmChar('abcdefg', 6))
